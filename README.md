@@ -22,10 +22,10 @@ Leveraging DynamoDB allowed us to ensure scalability, enabling the system to han
 We seamlessly integrated the City of Calgary Maps API to provide real-time data to users. This integration enabled us to track over 60 neighborhoods using live data, offering users up-to-date information.
 
 ## Contributors:
-Aly Mohamed: Full Stack
-Findlay Brown: Full Stack
-Dawson Van Vlaanderen: Backend
-Damon Mazurek: Backend
+Aly Mohamed: Full Stack.
+Findlay Brown: Full Stack.
+Dawson Van Vlaanderen: Backend.
+Damon Mazurek: Backend.
 
 ## Future Improvements:
 ### Enhanced Data Visualization: 
